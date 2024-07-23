@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <center><h1>Resume</h1></center>
+        <hr>
+        <img align="right"width="100px" src="IMG_1239.jpg" alt="my_image">
+        <p><b>Name: </b>Leelavati M Chandavar</p>
+        <p><b>Email: </b>sushmitahegde2000@gmail.com</p>
+        <p><b>Mobile: </b>8277311424</p>
+        <hr>
+        <h3 class="heading">Objective</h3>
+        <p>I am seeking a challenging position in an organization where I can learn new skills, expand my knowledge, and help the organization accomplish its ambitions.</p>
+        <hr>
+        <h3 class="heading">Academics</h3>
+        <table id="table">
+            <tr>
+                <th>Institution Name</th>
+                <th>Course</th>
+                <th>Year of completion</th>
+                <th>Marks</th>
+            </tr>
+            <tr>
+                <td>Gss vanalli</td>
+                <td>SSLC</td>
+                <td>2016</td>
+                <td>84%</td>
+            </tr>
+            <tr>
+                <td>Marikamba PU College</td>
+                <td>PCMB</td>
+                <td>2018</td>
+                <td>65%</td>
+            </tr>
+            <tr>
+                <td>JSS SMI UG AND PG STUDIES VIDYAGIRI DHARWAD</td>
+                <td>BCA</td>
+                <td>2021</td>
+                <td>78%</td>
+            </tr>
+            <tr>
+                <td>DSU</td>
+                <td>MCA</td>
+                <td>2025</td>
+                <td>85.9%</td>
+            </tr>
+        </table>
+        <hr>
+        <h3 class="heading">Projects and Achievements</h3>
+        <ul>
+            <li>“ARECANUT MANAGEMENT SYSTEM”</li>
+        </ul>
+        <hr>
+        <h3 class="heading">Skills and Hobbies</h3>
+        <ol>
+            <li>Computer Skills</li>
+            <ul>
+                <li>C</li>
+                <li>Python</li>
+                <li>HTML</li>
+            </ul>
+            <li>Hobbies</li>
+            <ul>
+                <li>Sports</li>
+                <li>Travelling</li>
+                <li>Photography</li>
+            </ul>
+        </ol>
+        <hr>
+        <h3 class="heading">Self Introduction</h3>
+        <video controls width="350" height="250" src="/self_intro.mp4"></video>
+    </body>
+</html>
